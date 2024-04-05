@@ -125,7 +125,6 @@ trio-websocket==0.11.1
 typing_extensions==4.11.0
 tzdata==2023.3
 uri-template==1.2.0
-urllib3>=1.21.1,<1.25
 uvicorn==0.29.0
 wcwidth==0.2.6
 webcolors==1.13
